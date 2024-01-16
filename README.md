@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)
+
 <!--
 **OmorFaruk63/OmorFaruk63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
