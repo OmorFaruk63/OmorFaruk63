@@ -1,5 +1,5 @@
 
-![]([https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png))
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)
 ### Hi there 👋
 
 # Hi there, I'm Omor Faruk, a Junior Front-End Developer! 👋
