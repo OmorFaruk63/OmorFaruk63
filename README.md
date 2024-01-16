@@ -34,6 +34,7 @@ Happy coding! 🚀
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OmorFaruk63)
 
+![](https://komarev.com/ghpvc/?username=omorFaruk63)
 <!--
 **OmorFaruk63/OmorFaruk63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
