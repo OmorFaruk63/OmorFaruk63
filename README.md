@@ -30,7 +30,9 @@ I'm open to collaboration and always eager to connect with fellow developers. Fe
 Happy coding! 🚀
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFaruk63)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFaruk63)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OmorFaruk63)
 
 <!--
 **OmorFaruk63/OmorFaruk63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
