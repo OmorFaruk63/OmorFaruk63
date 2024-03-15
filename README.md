@@ -32,9 +32,6 @@ Happy coding! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFaruk63)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFaruk63&langs_count=10&layout=compact&hide=html,css)
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OmorFaruk63)
 
 ![](https://komarev.com/ghpvc/?username=omorFaruk63)
