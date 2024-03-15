@@ -12,7 +12,11 @@ I'm enthusiastic about creating delightful and user-friendly web experiences. My
 - **CSS:** Designing visually appealing and responsive user interfaces.
 - **JavaScript:** Implementing interactive features to enhance user experience.
 - **React:** Building modern and scalable web applications.
-- **Tailwind CSS:** Utilizing a utility-first CSS framework for efficient styling.
+- **Next.js:** Developing fast, server-side rendered React applications with ease.
+- **Sass:** Writing maintainable and scalable CSS with the power of Sass preprocessor.
+- **Bootstrap:** Rapidly prototyping and styling web applications with the Bootstrap framework.
+- **TypeScript:** Adding static typing to JavaScript for enhanced code quality and developer productivity.
+
 
 ## 🌱 Learning and Growth
 
