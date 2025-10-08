@@ -1,58 +1,59 @@
-
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)
-### Hi there 👋
 
-# Hi there, I'm Omor Faruk, a Junior Front-End Developer! 👋
+# 👋 Hi there, I'm **Omor Faruk** — Front-End Developer
 
-I'm enthusiastic about creating delightful and user-friendly web experiences. My skill set includes HTML, CSS, JavaScript, React, and Tailwind CSS.
+I'm a passionate **Front-End Developer** with **2 years of professional experience** building modern, performant, and user-friendly web applications.
+I specialize in **React**, **Next.js**, and front-end optimization techniques like **caching**, **SSR**, **ISR**, and **CSR**.
 
-## 🚀 Skills
+My goal is to create scalable, maintainable, and efficient web solutions that deliver seamless user experiences.
 
-- **HTML:** Crafting structured and accessible web pages.
-- **CSS:** Designing visually appealing and responsive user interfaces.
-- **JavaScript:** Implementing interactive features to enhance user experience.
-- **React:** Building modern and scalable web applications.
-- **Next.js:** Developing fast, server-side rendered React applications with ease.
-- **Sass:** Writing maintainable and scalable CSS with the power of Sass preprocessor.
-- **Bootstrap:** Rapidly prototyping and styling web applications with the Bootstrap framework.
-- **TypeScript:** Adding static typing to JavaScript for enhanced code quality and developer productivity.
+---
 
+## 🚀 Technical Skills
 
-## 🌱 Learning and Growth
+* **HTML / CSS / Sass / Tailwind CSS** → Crafting structured, responsive, and visually appealing UI.
+* **JavaScript / TypeScript** → Writing clean, modular, and strongly typed code.
+* **React.js** → Building reusable components and dynamic UIs with hooks and state management.
+* **Next.js** → Developing optimized full-stack apps using SSR (Server-Side Rendering), ISR (Incremental Static Regeneration), and CSR (Client-Side Rendering).
+* **Caching & Optimization** → Implementing performance tuning, CDN usage, and data-fetching optimizations.
+* **Version Control** → Experienced with Git, GitHub, and collaborative workflows.
+* **UI Frameworks** → Bootstrap, Chakra UI, Material UI.
 
-As a junior developer, I'm dedicated to continuous learning and improvement. Currently, I'm focusing on [MERN STACK] to enhance my skills further.
+---
 
-## 📫 Let's Connect
+## 💡 What Defines Me as a Mid-Level Developer
 
-- GitHub: [github.com/omorfaruk]([https://github.com/your-username](https://github.com/OmorFaruk63/OmorFaruk63))
-- LinkedIn: [linkedin.com/in/omorfaruk]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/omor-faruk-developer/))
-- 📞 Phone: +01789593926
-- ✉️ Email: omor3710@gmail.com
+* ✅ **Deep understanding** of React and Next.js internals.
+* ✅ **Focus on performance** — knows how to optimize build size, caching, and rendering.
+* ✅ **Clean and maintainable code** with proper architecture and naming conventions.
+* ✅ **Strong debugging and problem-solving skills.**
+* ✅ **Experience with real-world projects**, handling production issues, and collaborating in teams.
+* ✅ **Ability to mentor juniors** and communicate effectively with designers and backend developers.
+* ✅ **Continuous learner** — staying up to date with modern tools, frameworks, and best practices.
 
-I'm open to collaboration and always eager to connect with fellow developers. Feel free to reach out for discussions on front-end development, projects, or anything tech-related!
+---
 
-Happy coding! 🚀
+## 🌱 Currently Exploring
 
+* Advanced **Next.js 15+ features** and **React Server Components (RSC)**
+* **Performance optimization** and **API caching strategies**
+* **Backend integration** with Node.js and Express
+
+---
+
+## 📫 Let’s Connect
+
+* 🌐 **GitHub:** [github.com/OmorFaruk63](https://github.com/OmorFaruk63)
+* 💼 **LinkedIn:** [linkedin.com/in/omor-faruk-developer](https://www.linkedin.com/in/omor-faruk-developer/)
+* 📞 **Phone:** +8801789593926
+* ✉️ **Email:** [omor3710@gmail.com](mailto:omor3710@gmail.com)
+
+I'm open to collaborations, freelance opportunities, and discussions about modern front-end development.
+Let’s build something great together! 🚀
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmorFaruk63)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OmorFaruk63)
-
 ![](https://komarev.com/ghpvc/?username=omorFaruk63)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmorFaruk63&show_icons=true&count_private=true)
-
-<!--
-**OmorFaruk63/OmorFaruk63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmorFaruk63\&show_icons=true\&count_private=true)
